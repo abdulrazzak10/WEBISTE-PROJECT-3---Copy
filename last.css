@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+h1{	text-align: left;
+    font-family: "Papyrus";
+    font-size: 33px;
+    color: goldenrod;
+    }
+    h2{
+    
+    text-align: center;
+    color: snow;
+    font-family: "Papyrus";
+    font-size: 16px;
+    position: relative;
+    top: 15px;
+    text-decoration: solid;
+    font-style: italic;
+    font-weight: bolder;
+    
+}
+
+h3{
+    
+    text-align: center;
+    color: maroon;
+    font-family: "Papyrus";
+    font-size: 50px;
+    position: relative;
+    top: 15px;
+    text-decoration: solid;
+    font-style: italic;
+    font-weight: bolder;
+    
+}
+h4{
+    
+    text-align: center;
+    color: snow;
+    font-family: "Papyrus";
+    font-size: 40px;
+    position: relative;
+    top: 15px;
+    text-decoration: solid;
+    font-style: italic;
+    font-weight: bolder;
+    
+}
+h5{
+    
+    text-align: center;
+    color: snow;
+    font-family: "Papyrus";
+    font-size: 40px;
+    position: relative;
+    top: 15px;
+    text-decoration: solid;
+    font-weight: bolder;
+    
+}
+
+    
+    body{
+        background-image : url('last.png');
+      background-repeat : no-repeat;
+      background-size : cover;
+      font-family: sans-serif;
+    }
+    #myHeader {
+        background-color:maroon;
+        color: goldenrod;
+        padding: 5px transparent;
+        text-align: center;
+        text-shadow: 2px;
+        text-decoration: solid;
+        font-weight: bold;
+        font-style: normal;
+      }
+    .btn2
+    {
+        font-family: "Papyrus";
+        margin: -20px -150px;
+       color: rgb(0, 0, 0);
+       background-color: goldenrod;
+       padding: 6px 5px;
+       position: relative;
+       left: 802px;
+       border-radius: 10px;
+       font-size: 15px;
+       font-weight: bold;
+       cursor: pointer;
+    }
+    .btn2:hover{
+        background-color: rgb(255, 249, 252);
+        transform: scale(1.3);
+    }
